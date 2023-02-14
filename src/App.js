@@ -9,7 +9,6 @@ export default function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <GundamHeader />
-      <GundamHeader />
     </div>
   );
 }
